@@ -1,4 +1,4 @@
-FuzzyWuzzy and Python Contenxt talk
+FuzzyWuzzy and Python Context talk
 ===========
 
 
